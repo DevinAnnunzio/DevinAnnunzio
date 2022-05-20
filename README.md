@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Android development. I am also learning about back end development using Java**
 
-- 📫 How to reach me **Annunzio.devin@gmail.com**
+- 📫 How to contact me **Annunzio.devin@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BIHBGdjF3KHY0jPWXsbWZjt0LQ8dcC2y/view?usp=sharing](https://drive.google.com/file/d/1BIHBGdjF3KHY0jPWXsbWZjt0LQ8dcC2y/view?usp=sharing)
+- 📄 Want to know about my experiences? [https://drive.google.com/file/d/1BIHBGdjF3KHY0jPWXsbWZjt0LQ8dcC2y/view?usp=sharing](https://drive.google.com/file/d/1BIHBGdjF3KHY0jPWXsbWZjt0LQ8dcC2y/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy skateboarding when I am not coding.**
 
