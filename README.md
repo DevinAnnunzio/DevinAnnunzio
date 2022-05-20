@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devinannunzio&label=Profile%20views&color=0e75b6&style=flat" alt="devinannunzio" /> </p>
 
-- 🌱 I’m currently learning **Android development. I am also learning about back end development using Java**
+- 🌱 I’m currently learning: **Android development. I am also learning about back end development using Java**
 
-- 📫 How to contact me **Annunzio.devin@gmail.com**
+- 📫 How to contact me: **Annunzio.devin@gmail.com**
 
 - 📄 Want to know about my experiences? [https://drive.google.com/file/d/1BIHBGdjF3KHY0jPWXsbWZjt0LQ8dcC2y/view?usp=sharing](https://drive.google.com/file/d/1BIHBGdjF3KHY0jPWXsbWZjt0LQ8dcC2y/view?usp=sharing)
 
-- ⚡ Fun fact **I enjoy skateboarding when I am not coding.**
+- ⚡ Fun fact: **I enjoy skateboarding when I am not coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
