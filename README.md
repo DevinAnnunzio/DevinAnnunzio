@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devin Annunzio</h1>
-<h3 align="center">A passionate Android / Full stack developer from the USA</h3>
+<h3 align="center">A passionate Full stack developer from the USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devinannunzio&label=Profile%20views&color=0e75b6&style=flat" alt="devinannunzio" /> </p>
 
-- 🌱 I’m currently learning: **Android development and back end development with Java/Spring**
+- 🌱 I’m currently learning: **Back end development with Java/Spring**
 
 - 📫 How to contact me: **Annunzio.devin@gmail.com**
 
