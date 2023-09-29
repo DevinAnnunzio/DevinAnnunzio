@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devinannunzio&label=Profile%20views&color=0e75b6&style=flat" alt="devinannunzio" /> </p>
 
-- 🌱 I’m currently learning: **Back end development with Spring Boot and Angular**
+- 🌱 I’m currently learning: **Spring Boot and Angular**
 
 - 📫 How to contact me: **Annunzio.devin@gmail.com**
 
