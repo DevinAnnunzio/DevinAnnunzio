@@ -9,7 +9,7 @@
 
 - 📄 Want to know about my experiences? [https://drive.google.com/file/d/1BIHBGdjF3KHY0jPWXsbWZjt0LQ8dcC2y/view?usp=sharing](https://drive.google.com/file/d/16QFWDBhOHmibPzwnx8BIj8VK5JTK6J__/view?usp=sharing)
 
-- ⚡ Fun fact: **I enjoy skateboarding when I am not coding.**
+- ⚡ Fun fact: **I enjoy jiu jitsu, lifting weights, and skateboarding when I am not coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
